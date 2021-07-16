@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.span-part-color{
+    color: rgb(255, 69, 0);
+}
+.container-flex{
+    display: flex;   
+}
+.div-half-width{
+    width: 50%;
+    padding: 5% 5%;
+}
+.div-half-width img{
+width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 165, 0),rgb(245, 29, 29));
+    padding: 10px 40px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 30px;
+}
+.intro{
+    background-image: url(shapes/Frame\ 57.jpg);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+.about{
+    background-image: url(shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position:5%;
+}
+.recipy-title{
+    width:100%;
+    text-align: center;
+    color: rgb(41, 23, 202);
+}
+.food-item-box{
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px rgb(139, 137, 137);
+}
+.food-item-box img{
+    width:100%;
+    border-radius: 10px;
+}
+footer{
+    box-shadow: inset 5em 20em teal;
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+    padding: 10px 20px;
+}
