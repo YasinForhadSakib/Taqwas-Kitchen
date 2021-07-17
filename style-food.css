@@ -53,10 +53,19 @@ width: 100%;
     width:100%;
     border-radius: 10px;
 }
+.explore-links{
+    box-shadow:inset 5em 20em gold ;
+    margin-top: 5%;
+    padding: 10px 30px;
+}
+.finding-link p{
+    font-weight: bolder;
+    font-stretch: extra-expanded;
+}
 footer{
     box-shadow: inset 5em 20em teal;
     text-align: center;
     color: white;
-    margin-top: 10%;
+    margin-top: 0%;
     padding: 10px 20px;
 }
